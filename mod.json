@@ -1,0 +1,21 @@
+{
+  "geode": "4.2.0",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081"
+  },
+  "version": "v0.1.0",
+  "id": "tuusuario.input_buffer_lite",
+  "name": "Input Buffer Lite",
+  "developer": "tuusuario",
+  "description": "Si das clic un poquito antes, lo guarda y lo ejecuta al aterrizar o tocar un orbe. Es un cheat: no valido para listas.",
+  "settings": {
+    "max-ticks": {
+      "type": "int",
+      "name": "Ticks máximos de espera",
+      "default": 4,
+      "min": 1,
+      "max": 10
+    }
+  }
+}
